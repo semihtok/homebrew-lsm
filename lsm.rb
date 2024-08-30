@@ -13,7 +13,7 @@ class Lsm < Formula
 
   on_macos do
     url "https://github.com/semihtok/lsm/releases/download/v0.1.2/lsm_0.1.2_darwin_amd64.tar.gz"
-    sha256 "30f797846626f7419a5fe82eea304190c603008630b546ac9fe3c1709294e4ac"
+    sha256 "070284b71391414e2767e914554e6457c11cad0350251d5f67cee82e8ef6802f"
 
     def install
       bin.install "lsm"
